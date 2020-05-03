@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<robot name="robotic_arm">
+  <!-- Used for fixing robot to Gazebo 'base_link' -->
+  <link name="world"/>
+
+  <joint name="fixed" type="fixed">
+    <parent link="world"/>
+    <child link="enclosure"/>
+  </joint>
+
+  
+
+</robot>
+
