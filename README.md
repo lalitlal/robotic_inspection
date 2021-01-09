@@ -1,5 +1,6 @@
 # INSPEKSI - An Intelligent Manufacturing Inspection Robot
 Autodesk Capstone Award Winner (2019)
+Role: Software Co-Lead, Electrical Lead
 
 * Created a surface defect detection system using a myriad of vision and machine learning (deep learning) approaches
 * Developed 4 DOF robotic arm with back driveability for customized scanning approaches and plans
