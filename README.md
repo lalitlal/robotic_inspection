@@ -6,7 +6,7 @@ Autodesk Capstone Award Winner (2019)
 * Created custom dataset using real vendors, products, and samples of different shapes and colors in variety of lighting
 * Functionality tested and validated during pilot with Ecobee sensors
 
-![](images/final_system.png)
+![](images/logo.png)
 ![](images/final_system.jpg)
 ![](images/pipeline.png)
 ![](images/results.jpg)
