@@ -7,3 +7,12 @@ Autodesk Capstone Award Winner (2019)
 * Functionality tested and validated during pilot with Ecobee sensors
 
 ![](images/final_system.jpg)
+![](images/pipeline.jpg)
+![](images/results.jpg)
+![](images/electrical.jpg)
+![](images/eval.jpg)
+![](images/semantic.jpg)
+![](images/cad.jpg)
+![](images/physical_robot.jpg)
+![](images/enclosure_cad.jpg)
+
